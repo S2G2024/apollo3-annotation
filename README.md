@@ -2,16 +2,14 @@
 
 #BGA24/sessions #GitPod #Annotation
 
-This session is part of [**Biodiversity Genomics Academy 2024**](https://thebgacademy.org)
+This session is part of [**S2G2024**]
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/thebgacademy/apollo3-annotation) 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/S2G2024/apollo3-annotation) 
 
 ## Session Leader(s)
-Garrett Stevens
 
-Dario Beraldi
-
-Shashank Gowda
+Camilla Santos
+Michael Paulini
 
 
 ## Description
